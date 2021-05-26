@@ -1,1 +1,3 @@
-This is sending from github.com this is so cool
+This is sending from github.com this is to simulate my co-worker  pushed changes to this repo so i can pull down the code he has done
+
+This is my co-worker adding changes and pushing to remote
